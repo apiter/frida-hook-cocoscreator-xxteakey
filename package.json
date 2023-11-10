@@ -1,0 +1,14 @@
+{
+  "name": "frida-hook-cocoscreator-xxteakey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tsm",
+  "license": "ISC",
+  "dependencies": {
+    "@types/frida-gum": "^18.4.5"
+  }
+}
